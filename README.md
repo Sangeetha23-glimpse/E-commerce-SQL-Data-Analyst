@@ -9,7 +9,7 @@ The goal is to extract insights from transactional datasets by performing data c
 and deriving business-decision support metrics.
 
 🔗 Project Presentation
-https://gamma.app/docs/Zepto-E-commerce-SQL-Data-Analyst-Portfolio-Project-yoom8n5n6p51qoy?mode=doc
+https://gamma.app/docs/Zepto-E-commerce-SQL-Data-Analyst-Portfolio-Project-96ynexeycbejbel?mode=present#card-jqdve3r70s2d8oo
 
 This project demonstrates:
 Strong SQL querying skills
